@@ -13,3 +13,6 @@ Tambem existe um ficheiro Jogo.c que irá buscar o labirinto utilizando o readin
 Com isto tudo o programa tem dois modos de ser utilizado, o modo de quatro teclas onde ao tocar no W o cursor irá para cima, no S para baixo, no D para a direita e no A para a esquerda.
 
 O outro modo é o de três teclas, onde o cursor apresenta direção, sendo que para se movimentar para a direita é necessário tocar na tecla D até que o cursor se vire nessa direção, só depois clicando na tecla W para se movimentar.
+
+Video do Projeto:
+https://youtu.be/3fwbdjJQMI4
